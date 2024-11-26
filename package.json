@@ -1,0 +1,13 @@
+{
+    "name": "com.AdityaBabar08.LevelProgressManager",
+    "version": "1.0.0",
+    "displayName": "Difficulty System",
+    "description": "A generic difficulty and level progression system for Unity.",
+    "unity": "2021.3",
+    "unityRelease": "0f1",
+    "author": {
+      "name": "Aditya Babar",
+      "email": "babaraditya02@gmail.com",
+      
+    }
+}
