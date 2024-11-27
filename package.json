@@ -1,5 +1,5 @@
 {
-    "name": "com.gitamend.LevelProgressManager",
+    "name": "com.gitamend.level_progress_manager",
     "version": "1.0.0",
     "displayName": "Difficulty System",
     "description": "A generic difficulty and level progression system for Unity.",
